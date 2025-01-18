@@ -17,6 +17,9 @@
                 <a href="https://www.webintoapp.com/store/574440" target="_blank">
                     <i class="fas fa-link"></i> تحميل من WebIntoApp
                 </a>
+                <a href="https://github.com/abdellahriyaf/Natija-v2.0/releases/download/education/Natija.v2.0.apk" target="_blank">
+                    <i class="fas fa-link"></i> تحميل من Github
+                </a>
             </div>
         </section>
         <section>
