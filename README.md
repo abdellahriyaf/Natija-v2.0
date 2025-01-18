@@ -1,5 +1,3 @@
-    </style>
-</head>
 <body>
     <header>
         <h1>Natija</h1>
