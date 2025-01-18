@@ -11,15 +11,21 @@
         <section>
             <h2><i class="fas fa-download"></i> تحميل Natija</h2>
             <div class="download-links">
-                <a href="https://drive.google.com/file/d/10XI8gO8GlNiXh8QbKrjHCatVyDgqeeZp/view?usp=sharing" target="_blank">
-                    <i class="fas fa-cloud-download-alt"></i> تحميل من Drive        
-                </a>
-                <a href="https://www.webintoapp.com/download/apk/574440/app-release.apk" target="_blank">
-                    <i class="fas fa-link"></i> تحميل من WebIntoApp                    
-                </a>
-                <a href="https://github.com/abdellahriyaf/Natija-v2.0/releases/download/education/Natija.v2.0.apk" target="_blank">
-                    <i class="fas fa-link"></i> تحميل من Github
-                </a>
+                <div class="link">
+                    <a href="https://drive.google.com/file/d/10XI8gO8GlNiXh8QbKrjHCatVyDgqeeZp/view?usp=sharing" target="_blank">
+                        <i class="fas fa-cloud-download-alt"></i> تحميل من Drive        
+                    </a>
+                </div>
+                <div class="link">
+                    <a href="https://www.webintoapp.com/download/apk/574440/app-release.apk" target="_blank">
+                        <i class="fas fa-link"></i> تحميل من WebIntoApp                    
+                    </a>
+                </div>
+                <div class="link">
+                    <a href="https://github.com/abdellahriyaf/Natija-v2.0/releases/download/education/Natija.v2.0.apk" target="_blank">
+                        <i class="fas fa-link"></i> تحميل من Github
+                    </a>
+                </div>
             </div>
         </section>
         <section>
