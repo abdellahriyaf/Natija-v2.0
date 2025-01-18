@@ -1,3 +1,17 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Natija - Your Grade Predictor</title>
+    <style>
+        /* CSS Styles Here */
+    </style>
+</head>
+<body>
+    <!-- HTML Content Here -->
+</body>
+</html>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
